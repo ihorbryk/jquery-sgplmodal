@@ -10,7 +10,6 @@ Small jQuery based lib for open modal window.
         $.sgplmodal.beforeOpen(function() { console.log('Before open'); });
         $.sgplmodal.open('#modal-one');
     });
-});
 ```
 
 ## License
