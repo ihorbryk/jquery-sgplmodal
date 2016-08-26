@@ -1,6 +1,6 @@
 ## Description
 
-Small jQuery based lib for open modal window.
+Small jquery based library for work with modal window
 
 ## Basic usage
 
@@ -11,4 +11,13 @@ Small jQuery based lib for open modal window.
         $.sgplmodal.open('#modal-one');
     });
 ```
+
+## Options
+
+| max-width | int | Set max-width of modal window. Default is 330 |
+
+`$.sgplmodal.maxWidth = 400;`
+
+## Methods
+
 
