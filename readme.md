@@ -16,7 +16,7 @@ Small jquery based library for work with modal window
 
 Option    | Value | Description
 :-------- | ----- | -------------------------------------------
-max-width | int | Set max-width of modal window. Default is 330
+maxWidth | int | Set max-width of modal window. Default is 330
 
 `$.sgplmodal.maxWidth = 400;`
 
