@@ -12,6 +12,3 @@ Small jQuery based lib for open modal window.
     });
 ```
 
-## License
-
-GPL v2
