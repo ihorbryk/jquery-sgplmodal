@@ -51,7 +51,6 @@
             },
 
             open : function(selector) {
-                console.log('try open');
                 this.selector = selector;
 
                 this.beforeOpenTriger();
@@ -71,7 +70,6 @@
             },
 
             close : function() {
-                console.log('try close');
                 this.beforeCloseTriger();
 
                 $('.overlay').remove();
